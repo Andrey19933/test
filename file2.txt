@@ -1,0 +1,6 @@
+{
+	"name": "andrey",
+	"city": "kirow",
+	"age": 30,
+	"friends": [valeriy, sasha]
+}
