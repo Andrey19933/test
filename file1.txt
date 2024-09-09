@@ -2,5 +2,11 @@
 	"name": "andrey",
 	"city": "kirow",
 	"age": 30,
-	"friends": [valeriy, sasha]
+	"friends": ["valeriy", "sasha"],
+	"maritalStatus": true
+	"car": {
+	"carMake": "Datsun",
+	"color": "Black",
+	"enginePower": 1.5
+}
 }
