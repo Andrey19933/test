@@ -3,7 +3,7 @@
 	"city": "kirow",
 	"age": 30,
 	"friends": ["valeriy", "sasha"],
-	"maritalStatus": true
+	"maritalStatus": true,
 	"car": {
 	"carMake": "Datsun",
 	"color": "Black",
